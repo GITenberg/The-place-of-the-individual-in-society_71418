@@ -1,0 +1,28 @@
+_repo: The-place-of-the-individual-in-society_71418
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Goldman, Emma
+    birthdate: 1869
+    deathdate: 1940
+    gutenberg_agent_id: '840'
+    url: http://www.gutenberg.org/2009/agents/840
+    wikipedia: https://en.wikipedia.org/wiki/Emma_Goldman
+description: ''
+gutenberg_issued: '2023-08-16'
+identifiers:
+  gutenberg: '71418'
+language: en
+pgterms:marc905: 20070924051617goldman
+pgterms:marc906: '1940'
+pgterms:marc907: US
+production_note: Fritz Ohrenschall, Louise Pattison and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aChicago :$bFree Society Forum, $c1940.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The place of the individual in society
+url: http://www.gutenberg.org/ebooks/71418
